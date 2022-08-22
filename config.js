@@ -18,7 +18,7 @@ global.gopay = 'https://tinyurl.com/2el4odke'
 global.namebot = 'Zeroo-Md²'
 global.gc = 'https://chat.whatsapp.com/E8IwFUibPjkDgilRKw6JBg'
 global.web = 'https://tinyurl.com/2el4odke' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'CUMAN OPEN 1 BULAN HARGA? 3K'
+global.price1 = '5K SUDAH PERMANEN YA ADICK ADICK!!'
 
 //『 Tampilan Dan Lainnya 』//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
