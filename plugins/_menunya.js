@@ -191,7 +191,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 [
 ['Creator', '.owner'],
 ['Donasi', '.donasi'],
-['Script', '.sc']
+['Sewabot', '.owner']
 ], m
 )
     /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
