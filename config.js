@@ -8,7 +8,7 @@ global.prems = ['6283890585717']
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Zeroo Store'
 global.numberowner = '6283890585717'
-global.instagram = 'males buat gw'
+global.instagram = 'https://tinyurl.com/2el4odke'
 global.github = 'https://github.com/Zeroo'
 global.dana = '085784914140'
 global.pulsa = '083830815715'
