@@ -18,7 +18,7 @@ Terimakasih =D
 Contact person Owner:
 wa.me/${numberowner} (Owner)
 
-*donasi via follow ig juga boleh*`
+*donasi via all Qriss boleh*`
   conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Thanks', 'thanks', m) 
 }
 handler.help = ['donasi', 'donate']
