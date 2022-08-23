@@ -15,7 +15,7 @@ const sections = [ {
         {title: `Script`, rowId: `#sc `},//, description: ``},
         {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
         {title: `Speed`, rowId: `#speed `},//, description: ``},
-        {title: `List Texpro Maker`, rowId: `#textpro `},//, description: ``},
+        {title: `Minimal Kalau Mainan Bot Jangan Spam!!`, rowId: `#textpro `},//, description: ``},
         {title: `Creator`, rowId: `#owner `},//, description: ``},
         ]
  } ]
