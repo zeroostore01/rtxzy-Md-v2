@@ -1,34 +1,34 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6283890585717'] 
-global.mods = ['6283890585717'] 
-global.prems = ['6283890585717'] 
+global.owner = ['6281328253139'] 
+global.mods = ['6281328253139'] 
+global.prems = ['6281328253139'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Zeroo Store'
-global.numberowner = '6283890585717'
+global.nameowner = '⫹⫺ Rattan Store'
+global.numberowner = '6281328253139'
 global.instagram = 'https://tinyurl.com/2el4odke'
 global.github = 'https://github.com/Zeroo'
 global.dana = '085784914140'
-global.pulsa = '083830815715'
+global.pulsa = ''
 global.gopay = 'https://tinyurl.com/2el4odke'
 
 //『 Info Bot 』//
-global.namebot = 'Zeroo-Md²'
-global.gc = 'https://chat.whatsapp.com/E8IwFUibPjkDgilRKw6JBg'
+global.namebot = 'rattan-Md²'
+global.gc = 'https://chat.whatsapp.com/HkqZZFoEBcxH0t1WZt70An'
 global.web = 'https://tinyurl.com/2el4odke' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '5K SUDAH PERMANEN YA ADICK ADICK!!'
+global.price1 = 'yntks'
 
 //『 Tampilan Dan Lainnya 』//
 global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© Zeroo-Md'
+global.wm = '© rattan-Md'
 global.watermark = wm
-global.wm2 = '⫹⫺ Zeroo-MD'
-global.wm3 = '© Zeroo-Md'
+global.wm2 = '⫹⫺ rattan-MD'
+global.wm3 = '© rattan-Md'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\n Zeroo-Md'
+global.author = 'Bot WhatsApp\n rattan-Md'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
