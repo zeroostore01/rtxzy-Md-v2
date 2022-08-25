@@ -1,13 +1,13 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6281328253139'] 
-global.mods = ['6281328253139'] 
-global.prems = ['6281328253139'] 
+global.owner = ['6289677933030'] 
+global.mods = ['6289677933030'] 
+global.prems = ['6289677933030'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Rattan Store'
-global.numberowner = '6281328253139'
+global.numberowner = '6289677933030'
 global.instagram = 'https://tinyurl.com/2el4odke'
 global.github = 'https://github.com/Zeroo'
 global.dana = '085784914140'
