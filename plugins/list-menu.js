@@ -4,7 +4,7 @@ let _uptime = process.uptime() * 1000
     let time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
    let ar = ['list', 'menu']
    let ras = `Hai Kak  @${m.sender.split('@')[0]} 👋`
-    let sel = `*© Zeroo Md*`
+    let sel = `*© rattan-Md*`
     let rs = `TAMPILAN FITUR`
 const sections = [ {
 	title: `☁️ Aktif ${uptime} / ⏲️ Jam ${time} WIB`,
@@ -15,7 +15,7 @@ const sections = [ {
         {title: `Script`, rowId: `#sc `},//, description: ``},
         {title: `Group Official`, rowId: `#gcbot `},//, description: ``},
         {title: `Speed`, rowId: `#speed `},//, description: ``},
-        {title: `Minimal Kalau Mainan Bot Jangan Spam!!`, rowId: `#textpro `},//, description: ``},
+        {title: `jangan Spam y`, rowId: `#textpro `},//, description: ``},
         {title: `Creator`, rowId: `#owner `},//, description: ``},
         ]
  } ]
